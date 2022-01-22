@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Cobertura Responsabilidad Civil",
+        "descripcion": "Brinda cobertura frente a daños físicos y materiales ocasionados a otras personas, transportadas o no, como consecuencia de un accidente de tránsito.",
+        "precio": 1500
+    },
+    {
+        "id": 2,
+        "name": "Robo/Hurto",
+        "descripcion": "Cubre robo o hurto del automóvil o de sus partes (según el modelo original de fábrica) en forma total o parcial",
+        "precio": 500
+    },
+    {
+        "id": 3,
+        "name": "Incendio",
+        "descripcion": "Cubre los daños producidos en el coche a causa del fuego",
+        "precio": 300
+    },
+    {
+        "id": 4,
+        "name": "Granizo",
+        "descripcion": "En caso de Granizo, se cubrirá (capot, techo, baúl y laterales) al %100 y sin franquicia",
+        "precio": 150
+    },
+    {
+        "id": 5,
+        "name": "Destrucción Total",
+        "descripcion": "Cuando el costo de la reparación o las partes afectadas al momento del siniestro sea igual o superior al 80% del valor de venta al público se indemnizará al asegurado el monto total de la suma asegurada.",
+        "precio": 1000
+    }
+]
